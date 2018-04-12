@@ -1,0 +1,8 @@
+#ifndef VS_DEFINES_HPP
+#define VS_DEFINES_HPP
+
+#define RESOLUTION_X 600
+#define RESOLUTION_Y 400
+#define GRAVITY	-9.81f
+
+#endif VS_DEFINES_HPP
